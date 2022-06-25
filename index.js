@@ -9,3 +9,7 @@ function megaCool() {
 }
 
 megaCool();
+
+function holis (){
+  console.log("hola que hase")
+}
